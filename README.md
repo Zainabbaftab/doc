@@ -120,10 +120,12 @@ The Online Bus Ticket Booking platform is a full-stack application designed to s
 ---
 
 ## Entity-Relationship Diagram (ERD)
-- Represents relationships between entities like Users, Buses, Bookings, and Feedback.
+![erd png](https://github.com/user-attachments/assets/f403d513-7139-4d8b-a9e9-81cbc04b3b9a)
+
 
 ## Data Flow Diagram (DFD)
-- Illustrates how data flows between passengers, bus operators, and admins within the platform.
+![dfd png](https://github.com/user-attachments/assets/73744f3a-4c1b-40ef-90a8-ab3e6ed8b71b)
+
 
 ---
 
